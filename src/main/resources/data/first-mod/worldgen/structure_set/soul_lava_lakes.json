@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 91423761,
+    "separation": 6,
+    "spacing": 24
+  },
+  "structures": [
+    {
+      "structure": "first-mod:soul_lava_lake",
+      "weight": 1
+    }
+  ]
+}

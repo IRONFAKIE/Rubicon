@@ -1,0 +1,20 @@
+{
+	"required": true,
+	"package": "ru.school.firstmod.client.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"EntityRendererMixin",
+		"EntityRenderStateMixin",
+		"ExampleClientMixin",
+		"FlameFeatureRendererInvoker",
+		"FlameFeatureRendererMixin",
+		"FluidRendererMixin",
+		"RenderSectionRegionMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

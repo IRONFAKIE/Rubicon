@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "R": "first-mod:magic_ruby"
+  },
+  "pattern": [
+    "RR",
+    "RR"
+  ],
+  "result": {
+    "id": "first-mod:ruby_block"
+  }
+}

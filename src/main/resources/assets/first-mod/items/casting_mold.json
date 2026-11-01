@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "first-mod:item/casting_mold",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -19712
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:netherite_upgrade_smithing_template",
+  "base": "first-mod:crown",
+  "addition": "minecraft:netherite_ingot",
+  "result": {
+    "id": "first-mod:advanced_crown"
+  }
+}

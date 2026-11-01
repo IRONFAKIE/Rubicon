@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "first-mod:item/ruby_block"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "first-mod:block/activator_receiver_on"
+  }
+}

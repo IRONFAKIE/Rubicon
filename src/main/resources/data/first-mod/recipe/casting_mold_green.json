@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "first-mod:casting_mold",
+    "minecraft:green_dye"
+  ],
+  "result": {
+    "id": "first-mod:casting_mold",
+    "components": {
+      "minecraft:dyed_color": 6192150,
+      "minecraft:dye": "green"
+    }
+  }
+}

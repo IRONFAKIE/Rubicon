@@ -1,0 +1,7 @@
+{
+  "type": "first-mod:soul_lava_lake",
+  "biomes": "#first-mod:has_structure/soul_lava_lake",
+  "spawn_overrides": {},
+  "step": "surface_structures",
+  "terrain_adaptation": "none"
+}

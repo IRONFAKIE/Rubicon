@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "dusted=0": {
+      "model": "first-mod:block/ruby_ore_block"
+    },
+    "dusted=1": {
+      "model": "first-mod:block/ruby_ore_block"
+    },
+    "dusted=2": {
+      "model": "first-mod:block/ruby_ore_block"
+    },
+    "dusted=3": {
+      "model": "first-mod:block/ruby_ore_block"
+    }
+  }
+}

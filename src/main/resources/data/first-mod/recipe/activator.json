@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "R": "first-mod:magic_ruby",
+    "S": "first-mod:steel_ingot",
+    "D": "minecraft:redstone"
+  },
+  "pattern": [
+    " R ",
+    "SDS",
+    " S "
+  ],
+  "result": {
+    "id": "first-mod:activator"
+  }
+}

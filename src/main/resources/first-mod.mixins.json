@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "ru.school.firstmod.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"mixins": [
+		"AbstractFurnaceBlockEntityMixin",
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

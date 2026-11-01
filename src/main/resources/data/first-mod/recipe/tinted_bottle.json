@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": "minecraft:tinted_glass"
+  },
+  "pattern": [
+    "G G",
+    " G "
+  ],
+  "result": {
+    "id": "first-mod:tinted_bottle",
+    "count": 3
+  }
+}

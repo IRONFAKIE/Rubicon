@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "first-mod:activator",
+    "first-mod:magic_ruby"
+  ],
+  "result": {
+    "id": "first-mod:activated_activator"
+  }
+}

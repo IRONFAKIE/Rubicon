@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "fabric:type": "fabric:components",
+    "base": "first-mod:magic_ruby",
+    "components": {
+      "first-mod:ruby_stage": 1
+    }
+  },
+  "addition": "first-mod:crown",
+  "result": {
+    "id": "first-mod:protected_ruby"
+  }
+}

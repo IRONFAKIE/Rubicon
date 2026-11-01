@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "first-mod:item/ruby_stage_5"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": "first-mod:lapis_melt",
+    "B": "first-mod:coal_melt",
+    "C": "first-mod:redstone_melt",
+    "D": "first-mod:emerald_melt",
+    "E": "first-mod:iron_melt",
+    "F": "first-mod:gold_melt",
+    "G": "first-mod:diamond_melt",
+    "H": "first-mod:netherite_melt",
+    "I": "first-mod:ruby_melt"
+  },
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "result": {
+    "id": "first-mod:steel_melt",
+    "count": 3
+  }
+}

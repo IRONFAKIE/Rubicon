@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "S": "first-mod:steel_ingot",
+    "R": "minecraft:redstone",
+    "Q": "minecraft:quartz"
+  },
+  "pattern": [
+    "SSS",
+    "RQR",
+    "SSS"
+  ],
+  "result": {
+    "id": "first-mod:activator_receiver"
+  }
+}
